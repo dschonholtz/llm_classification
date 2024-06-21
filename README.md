@@ -36,7 +36,7 @@ The LLM Classification Pipeline consists of several key steps:
 
 ### 4. Model Selection and Training
 
-- Choose an appropriate LLM for your task (e.g., GPT-4, BERT, RoBERTa)
+- Choose an appropriate LLM for your task (e.g., GPT-4, Claude, Llama 3)
 - Fine-tune the model on your specific classification task
 - Implement prompt engineering techniques
 - Optimize hyperparameters
